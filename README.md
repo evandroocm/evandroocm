@@ -19,8 +19,6 @@ Atualmente desenvolvo sites com **WordPress + Elementor** focados em **performan
 ### 🚀 Em evolução
 
 - 📈 Criando um negócio como freelancer para vender meus serviços digitais
-- 📹 Lançando um canal no YouTube sobre programação, design e vida dev
-- ⚡ Desenvolvendo a **Eco Guard**, uma startup de automação com Arduino
 - ✍️ Escrevendo um livro técnico para auxiliar outros estudantes (e somar horas complementares 😄)
 
 ---
