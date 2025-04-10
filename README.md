@@ -1,4 +1,4 @@
-<img src="assets/bannerEvandro" alt="Banner Evandro" width="100%"/>
+<img src="assets/bannerEvandro.png" alt="Banner Evandro" width="100%"/>
 
 <h1 align="center">Fala dev! Eu sou o Evandro 👋</h1>
 
