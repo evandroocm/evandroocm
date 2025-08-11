@@ -1,25 +1,9 @@
 <h1 align="center">Fala dev! Eu sou o Evandro 👋</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Web%20Developer-%23A259FF?style=for-the-badge&logo=javascript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Arduino%20Maker-%235A1D94?style=for-the-badge&logo=arduino&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Empreendedor%20Digital-%23B967FF?style=for-the-badge&logo=notion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Web%20Developer-%23A259FF?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Web%20Designer-%23B967FF?style=for-the-badge&logoColor=white"/>
 </p>
-
----
-
-### 👨‍💻 Sobre mim
-
-Sou um apaixonado por **tecnologia, web design e empreendedorismo digital**. Estudo **Análise e Desenvolvimento de Sistemas** e atuo como **Desenvolvedor Web e Web Designer**, criando soluções para empresas, infoprodutores e startups que desejam crescer na internet.
-
-Atualmente desenvolvo sites com **WordPress + Elementor** focados em **performance, conversão e posicionamento de marca**.
-
----
-
-### 🚀 Em evolução
-
-- 📈 Criando um negócio como freelancer para vender meus serviços digitais
-- ✍️ Escrevendo um livro técnico para auxiliar outros estudantes (e somar horas complementares 😄)
 
 ---
 
