@@ -1,4 +1,4 @@
-<h1 align="center">Fala dev! Eu sou o Evandro 👋</h1>
+<h1 align="center">Eai dev! Eu sou o Evandro 👋</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Web%20Developer-%23A259FF?style=for-the-badge&logo=code&logoColor=white"/>
@@ -8,9 +8,13 @@
 ---
 
 ## 🚀 Sobre mim
-Sou **Web Developer** e **Web Designer**, apaixonado por transformar ideias em interfaces funcionais e bonitas.  
-Atualmente trabalho com **front-end, back-end** e **design** de sites e sistemas.  
-Já desenvolvi projetos em **React, PHP, Python, MySQL** e também crio layouts no **Figma** e **WordPress**.
+Sou estudante da Faculdade Senac Hub Academy, cursando o 2º semestre de Tecnologia em Análise e Desenvolvimento de Sistemas, com foco principal em desenvolvimento front-end, mas aberto a expandir minhas habilidades para garantir a qualidade de software,além de um curso Técnico de Desenvolvimento de Sistemas, na mesma instituição. 
+
+Atualmente, trabalho como aprendiz no Sesc Administração Regional, no setor de T.I desempenhando funções de suporte das quais eu possuo acesso. 
+
+Tenho conhecimentos básicos em HTML, CSS, JavaScript, React, Python, PHP, Git e MSSQL, e atualmente estou aprendendo Cypress para automação de testes.
+
+Tenho facilidade em aprender novas tecnologias e metodologias, incluindo Scrum e Kanban. Busco cada vez mais aprimorar minha atenção a detalhes e fortalecer minha compreensão do processo de desenvolvimento de software como um todo. Sou motivado por desafios, curioso por natureza, gosto de aprender mais e mais e acredito que o segredo começa pelo cuidado e organização em cada etapa do projeto.
 
 ---
 
@@ -48,12 +52,41 @@ Já desenvolvi projetos em **React, PHP, Python, MySQL** e também crio layouts 
 
 ---
 
+## 🏆 Conquistas e Eventos
+- 🥉 **3º Lugar** – Olimpíada Brasileira de Tecnologia (OBT)  
+- 👩‍💻 **Participação no evento** Mulheres que Mudam o Mundo com a Tecnologia – **MMT25**  
+- 💡 **2º Lugar no Senac Decola Hackathon + Hospital São Julião** – Criação de um MVP para gestão do centro cirúrgico.
+
+---
+
+## 💻 Projetos Práticos
+- 📄 **Artigo Científico – Sistema de Monitoramento de Som com Arduino**  
+  Solução de baixo custo para identificar níveis sonoros inadequados em hospitais, ajudando a promover ambientes mais humanizados.  
+  Normas utilizadas: **NRB 1052** e **OMS**  
+
+- 🛒 **Projeto Integrador – E-commerce ET.com**  
+  Desenvolvimento de e-commerce completo com a equipe **From Devs**, desde arquitetura até entrega final.  
+
+- ⚡ **Hackathon – Hospital São Julião**  
+  Sistema para rastreabilidade, captura de dados em tempo real e painéis de performance cirúrgica.  
+
+---
+
+## 🛠️ Habilidades
+- **Front-end:** HTML, CSS, JavaScript, React.js  
+- **Back-end:** Node.js, PHP  
+- **Banco de Dados:** MySQL  
+- **Ferramentas:** Git/GitHub, Figma, VS Code  
+- **Metodologias:** Git Flow, Ágil, BDD  
+
+---
+
 ## 📫 Vamos nos conectar?
 
 <p>
   🌐 [Site](https://evandromarques.com)  
-  📷 [Instagram](https://instagram.com/evandroocm)  
-  💼 [LinkedIn](https://linkedin.com/in/evandroocm)  
+  📷 [Instagram](https://instagram.com/evandromarques.dev)  
+  💼 [LinkedIn](https://linkedin.com/in/evandrocmarques)  
   ✉️ **contato@evandromarques.com**  
 </p>
 
