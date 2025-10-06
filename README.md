@@ -24,14 +24,6 @@
   <img src="https://img.shields.io/badge/WordPress-%23117AC9?style=flat&logo=wordpress&logoColor=white"/> 
 </p>
 
-
-### 📚 Currently Learning
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-%23339933?style=flat&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cucumber-%2323D96C?style=flat&logo=cucumber&logoColor=white"/>
-</p>
-
-
 ### 💻 About Me
 - 🚀 Passionate about **technology, design, and innovation**, actually working as a **Technical Suport**.  
 - 🎓 Currently studying **Analysis and Systems Development**.  
