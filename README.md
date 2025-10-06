@@ -37,16 +37,16 @@
 
 ### 📂 Projects
 ## Cardápio Digital - Pizzaria [Ver projeto](https://evandromarques.com/cardapio)  
-<img align="left" src="./assets/home-tablet.png" width="300px" height="auto">
+<img align="left" src="./assets/home-tablet.png">
 
 ## 🔗 Personal Portfolio [Ver projeto](https://evandromarques.com/cardapio)  
-<img align="left" src="./assets/home-tablet.png" width="300px" height="auto">
+<img align="left" src="./assets/home-tablet.png">
 
 ## 📱 FilaZero - Gerenciamento de Filas - Hackathon [Ver projeto](https://evandromarques.com/cardapio)  
-<img align="left" src="./assets/home-tablet.png" width="300px" height="auto">
+<img align="left" src="./assets/home-tablet.png">
 
 ## 🏥 Hospital São Julião – Projeto Hackathon [Ver projeto](https://evandromarques.com/cardapio)  
-<img align="left" src="./assets/home-tablet.png" width="300px" height="auto">
+<img align="left" src="./assets/home-tablet.png">
 
 ---
 
