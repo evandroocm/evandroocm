@@ -20,7 +20,7 @@
   
   <!-- Backend & DB -->
   <img src="https://img.shields.io/badge/Python-%23F7DF1E?style=flat&logo=python&logoColor=black"/> 
-  <img src="https://img.shields.io/badge/PHP-%23F7DF1E?style=flat&logo=php&logoColor=purple"/> 
+  <img src="https://img.shields.io/badge/PHP-%234479A1?style=flat&logo=php&logoColor=purple"/> 
   <img src="https://img.shields.io/badge/MySQL-%234479A1?style=flat&logo=mysql&logoColor=white"/> 
 </p>
 
@@ -42,7 +42,7 @@
 
 <br/>
 
-## 🔗 Personal Portfolio [Ver projeto](https://evandromarques.com/cardapio)  
+### 🔗 Personal Portfolio [Ver projeto](https://evandromarques.com/cardapio)  
 <img align="left" src="./assets/categoria-tablet.png">
 
 <br/>
@@ -52,7 +52,7 @@
 
 <br/>
 
-## 🏥 Hospital São Julião – Projeto Hackathon [Ver projeto](https://evandromarques.com/cardapio)  
+# 🏥 Hospital São Julião – Projeto Hackathon [Ver projeto](https://evandromarques.com/cardapio)  
 <img align="left" src="./assets/pizzasSalgadas-tablet.png">
 
 <br/>
