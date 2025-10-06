@@ -8,19 +8,20 @@
 ### 🛠️ Tech Stack
 
 <p align="left">
+  <!-- Design - UX/UI -->
+  <img src="https://img.shields.io/badge/Figma-%23F24E1E?style=flat&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WordPress-%23117AC9?style=flat&logo=wordpress&logoColor=white"/> 
+
   <!-- Frontend -->
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=black"/> 
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=black"> 
   <img src="https://img.shields.io/badge/React-%2361DAFB?style=flat&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/HTML5-%23E34F26?style=flat&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-%231572B6?style=flat&logo=css&logoColor=white"/> 
   
   <!-- Backend & DB -->
   <img src="https://img.shields.io/badge/Python-%23F7DF1E?style=flat&logo=python&logoColor=black"/> 
+  <img src="https://img.shields.io/badge/PHP-%23F7DF1E?style=flat&logo=php&logoColor=purple"/> 
   <img src="https://img.shields.io/badge/MySQL-%234479A1?style=flat&logo=mysql&logoColor=white"/> 
-  
-  <!-- Tools -->
-  <img src="https://img.shields.io/badge/Figma-%23F24E1E?style=flat&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/WordPress-%23117AC9?style=flat&logo=wordpress&logoColor=white"/> 
 </p>
 
 ### 💻 About Me
@@ -42,17 +43,17 @@
 <br/>
 
 ## 🔗 Personal Portfolio [Ver projeto](https://evandromarques.com/cardapio)  
-<img align="left" src="./assets/home-tablet.png">
+<img align="left" src="./assets/categoria-tablet.png">
 
 <br/>
 
 ## 📱 FilaZero - Gerenciamento de Filas - Hackathon [Ver projeto](https://evandromarques.com/cardapio)  
-<img align="left" src="./assets/home-tablet.png">
+<img align="left" src="./assets/detalhes-tablet.png">
 
 <br/>
 
 ## 🏥 Hospital São Julião – Projeto Hackathon [Ver projeto](https://evandromarques.com/cardapio)  
-<img align="left" src="./assets/home-tablet.png">
+<img align="left" src="./assets/pizzasSalgadas-tablet.png">
 
 <br/>
 
