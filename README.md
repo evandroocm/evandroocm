@@ -37,7 +37,7 @@
 
 ### 📂 Projects
 - Cardápio Digital - Pizzaria
-<img align="left" src="./assets/home-tablet.png>
+<img align="left" src="./assets/home-tablet.png">
 - 🔗 [Personal Portfolio](https://evandromarques.com)  
 - 📱 [FilaZero – Queue Management System](link-project)  
 - 🏥 [Hospital Management System – Hackathon Project](link-project)  
