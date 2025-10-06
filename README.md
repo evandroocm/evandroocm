@@ -19,7 +19,6 @@
   <img src="https://img.shields.io/badge/MySQL-%234479A1?style=flat&logo=mysql&logoColor=white"/> 
   
   <!-- Tools -->
-  <img src="https://img.shields.io/badge/Cypress-%2317202C?style=flat&logo=cypress&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Figma-%23F24E1E?style=flat&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/WordPress-%23117AC9?style=flat&logo=wordpress&logoColor=white"/> 
 </p>
