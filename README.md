@@ -38,10 +38,12 @@
 ### 📂 Projects
 ## Cardápio Digital - Pizzaria
 <img align="left" src="./assets/home-tablet.png" width="300px" height="auto">
+<img align="left" src="./assets/home-tablet.png" width="300px" height="auto">
+<img align="left" src="./assets/home-tablet.png" width="300px" height="auto">
 
-- 🔗 [Personal Portfolio](https://evandromarques.com)  
-- 📱 [FilaZero – Queue Management System](link-project)  
-- 🏥 [Hospital Management System – Hackathon Project](link-project)  
+## 🔗 [Personal Portfolio](https://evandromarques.com)  
+## 📱 [FilaZero - Gerenciamento de Filas - Hackathon](link-project)  
+## 🏥 [Hospital São Julião – Projeto Hackathon] 
 
 ---
 
