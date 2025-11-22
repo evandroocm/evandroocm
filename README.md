@@ -25,10 +25,10 @@
 </p>
 
 ### 💻 About Me
-- 🚀 Passionate about **technology, design, and innovation**, actually working as a **Technical Suport**.  
+- 🚀 Passionate about **technology, design, and innovation**, actually working as a **Mobile Developer**.  
 - 🎓 Currently studying **Analysis and Systems Development**.  
 - 🧪 Experience with **hackathons, scientific research, and academic projects**.  
-- 📌 Interests: **front-end development, web design, QA/testing, and real-world impact projects**.  
+- 📌 Interests: **front-end development, web design and real-world impact projects**.  
 - ✨ Goal: to become a **full-stack developer**, combining **design, code, and quality**.  
 <br/>
 
